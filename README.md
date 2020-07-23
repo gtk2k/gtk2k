@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/gtk2k/count.svg)
 <!--
 **gtk2k/gtk2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
